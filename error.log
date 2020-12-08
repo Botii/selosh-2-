@@ -1,0 +1,22 @@
+[Mon Oct 05 19:02:19.836122 2020] [mpm_event:notice] [pid 3578:tid 3069853408] AH00489: Apache/2.4.38 (Raspbian) configured -- resuming normal operations
+[Mon Oct 05 19:02:19.837574 2020] [core:notice] [pid 3578:tid 3069853408] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 05 21:19:21.482187 2020] [mpm_event:notice] [pid 3578:tid 3069853408] AH00491: caught SIGTERM, shutting down
+[Mon Oct 05 21:19:22.487198 2020] [mpm_prefork:notice] [pid 10985] AH00163: Apache/2.4.38 (Raspbian) configured -- resuming normal operations
+[Mon Oct 05 21:19:22.488294 2020] [core:notice] [pid 10985] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 05 21:19:33.166717 2020] [mpm_prefork:notice] [pid 10985] AH00169: caught SIGTERM, shutting down
+[Mon Oct 05 21:19:35.829460 2020] [mpm_prefork:notice] [pid 11042] AH00163: Apache/2.4.38 (Raspbian) configured -- resuming normal operations
+[Mon Oct 05 21:19:35.830562 2020] [core:notice] [pid 11042] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 05 21:23:16.113599 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.116496 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.116934 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.117314 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.117640 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.117960 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 21:23:16.118285 2020] [php7:notice] [pid 11048] [client 192.168.0.3:52927] PHP Notice:  Undefined variable: pass in /var/www/html/login.php on line 6, referer: http://192.168.0.2/login.html
+[Mon Oct 05 22:28:37.548361 2020] [mpm_prefork:notice] [pid 11042] AH00169: caught SIGTERM, shutting down
+[Mon Oct 05 22:29:16.061711 2020] [mpm_prefork:notice] [pid 452] AH00163: Apache/2.4.38 (Raspbian) configured -- resuming normal operations
+[Mon Oct 05 22:29:16.064019 2020] [core:notice] [pid 452] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 05 22:39:51.780704 2020] [php7:notice] [pid 454] [client 167.248.133.36:38226] PHP Notice:  Undefined index: HTTP_USER_AGENT in /var/www/html/ip.php on line 16
+[Mon Oct 05 22:49:07.625359 2020] [mpm_prefork:notice] [pid 452] AH00169: caught SIGTERM, shutting down
+[Mon Oct 05 22:49:53.686438 2020] [mpm_prefork:notice] [pid 522] AH00163: Apache/2.4.38 (Raspbian) configured -- resuming normal operations
+[Mon Oct 05 22:49:53.699436 2020] [core:notice] [pid 522] AH00094: Command line: '/usr/sbin/apache2'
